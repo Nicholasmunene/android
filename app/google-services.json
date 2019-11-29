@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194591248435",
+    "firebase_url": "https://school-project-bb605.firebaseio.com",
+    "project_id": "school-project-bb605",
+    "storage_bucket": "school-project-bb605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194591248435:android:d7fa91940144e8afec9346",
+        "android_client_info": {
+          "package_name": "com.nicholas.schoolproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194591248435-rgpopdspb2tfm79ovs024l926t5996hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8yAR2DED1tlqbIt79Ll_o_QYqWxHW8aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194591248435-rgpopdspb2tfm79ovs024l926t5996hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
